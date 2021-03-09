@@ -8,7 +8,7 @@ For Matlab use, written with Matlab R2019b full license. Might not work with som
 For Python use, may need numpy, Basemap/Cartopy, shapely, shapefile, matplotlib packages. May not work with some Basemap projections, and is still testing with Cartopy (not working well).
 
 
-Pengyang Song (peterspy@outlook.com) Mar/2021
+Author: Pengyang Song (peterspy@outlook.com) Mar/2021
 
 
 Some references:
