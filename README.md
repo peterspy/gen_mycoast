@@ -11,8 +11,8 @@ May not work with some Basemap projections, and is still testing with Cartopy (n
 Pengyang Song (peterspy@outlook.com) Mar/2021
 
 Some references:
-https://www.eoas.ubc.ca/~rich/mapug.html#p8
-https://shapely.readthedocs.io/en/stable/manual.html
-https://pypi.org/project/pyshp/
-https://basemaptutorial.readthedocs.io/en/latest/shapefile.html
-https://scitools.org.uk/cartopy/docs/latest/tutorials/using_the_shapereader.html
+https://www.eoas.ubc.ca/~rich/mapug.html#p8;
+https://shapely.readthedocs.io/en/stable/manual.html;
+https://pypi.org/project/pyshp/;
+https://basemaptutorial.readthedocs.io/en/latest/shapefile.html;
+https://scitools.org.uk/cartopy/docs/latest/tutorials/using_the_shapereader.html;
